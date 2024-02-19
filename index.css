@@ -1,0 +1,49 @@
+html {
+  background-color: #DDE9F5;
+}
+
+body {
+  text-align: center;
+  font-family: serif;
+}
+
+textarea {
+  width: 858px;
+  max-height: 787px;
+  font-size: 24px;
+  font-family: sans-serif;
+  margin-bottom: 8px;
+}
+
+div {
+  margin-bottom: 8px;
+}
+
+#second {
+  display: none;
+}
+
+#third {
+  display: none;
+}
+
+.pre {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.next {
+  font-size: 24px;
+  width: 425px;
+}
+
+.post {
+  font-size: 32px;
+}
+
+.choice {
+  font-size: 24px;
+  width: 425px;
+  height: 425px;
+  font-family: sans-serif;
+}
